@@ -1,0 +1,19 @@
+#exportPattern("^[[:alpha:]]+")
+
+export(nicqTest,nicqControl,getfx2,nicqGetpvalue,
+nicqCalc,getimaxpower,nimDiff,nimOR,nimDiffOR,
+brkTest,fmecTest,fmecExact,findPowerR,powerNicqTest)
+
+
+import(bpcp)
+#importFrom(ssanv,uniroot.integer)
+
+importFrom("stats", "dbeta", "dbinom", "fisher.test",                            "integrate",
+             "pnorm", "quantile", "uniroot")
+importFrom("utils", "getS3method")
+
+import(ssanv)
+
+S3method(print, nicq)
+S3method(print, brk)
+
