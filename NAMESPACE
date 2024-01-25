@@ -2,7 +2,7 @@
 
 export(nicqTest,nicqControl,getfx2,nicqGetpvalue,
 nicqCalc,getimaxpower,nimDiff,nimOR,nimDiffOR,
-brkTest,fmecTest,fmecExact,findPowerR,powerNicqTest)
+brkTest,brkControl,fmecTest,fmecExact,findPowerR,powerNicqTest)
 
 
 import(bpcp)

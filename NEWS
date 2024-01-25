@@ -1,0 +1,7 @@
+changes in version 0.5
+ - minor fix to man file: added alias statements to internalRK.Rd file
+ - update citation in some man files
+
+changes in version 0.4
+-added brkControl to export function in namespace, so that it can be used.
+-updated reference

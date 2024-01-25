@@ -40,7 +40,7 @@ For plots of the functions see Fay and Follmann (2015).
 \value{
 a vector of values g(F1(t)).
 }
-\references{Fay, MP and Follmann DA (2015). Non-inferiority Tests for Anti-Infective Drugs using Control Quantiles. (unpublished manuscript).}
+\references{Fay, MP and Follmann DA (2016). Non-inferiority Tests for Anti-Infective Drugs using Control Group Quantiles. (to appear in Clinical Trials).}
 %\author{%%  ~~who you are~~}
 %\note{%%  ~~further notes~~}
 

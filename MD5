@@ -1,5 +1,6 @@
-a14907db4a51f4f90dd8ec4d4d98df76 *DESCRIPTION
-09ef613bac0b70070751d8b0b381b8ea *NAMESPACE
+e9b1bb83a17f8b76b3c510f6919a40de *DESCRIPTION
+5c6aed9a7b9e2fb9c36617fff3198d92 *NAMESPACE
+54ed7863f3ea74c60a43aba907d6fb50 *NEWS
 0a790efccc66b9d2d7c63dad3452237b *R/RKFunctions.R
 05c47e07baf4d5c86eb0b7371c5d0f0b *R/nicqFunctions.R
 420eb2a89ddcbc604c514933c0fdf9d0 *demo/00Index
@@ -11,11 +12,11 @@ c3848aab3aa2cd98b3984c14dc8403ed *demo/nicqTest.examples.R
 e46d723696bef2223f637698ba1ee364 *man/fmecTest.Rd
 7e708a40abcd381f7cbf090fba555376 *man/getfx2.Rd
 b7ecf5f863d77ed37ddf7ebdddd35001 *man/getimaxpower.Rd
-e08d22cd124f3bd83185f0561bf21c2b *man/internalRK.Rd
+4af5cbda08be71494515f25a853e014b *man/internalRK.Rd
 7652af43c037c57f66fdf56a4efe2a27 *man/nicqControl.Rd
-92f14fed96ce451ce0f8ec446e250e6e *man/nicqTest.Rd
-dd788952acdce2f1a55e976b7d7ec283 *man/nimDiffOR.Rd
-bb780f32a715e1ccbc88aba11ed4ccd7 *man/nivm-package.Rd
+d979c622d194192bcbc1651544c9006c *man/nicqTest.Rd
+181d1c1b1684e36092e1be6a2b6dedc5 *man/nimDiffOR.Rd
+0b0919a9e5d3c7690f404a0474f6d0a6 *man/nivm-package.Rd
 26d82d8e31a538d7ebbf3ca3f4483d38 *man/powerNicqTest.Rd
 d59d803c77cbd2ae294ba375a6e3bc9a *man/print.brk.Rd
 a351db244fe6b6fbc5ac3a36caab4228 *tests/brkTestChecks.R

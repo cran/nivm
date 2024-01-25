@@ -96,7 +96,7 @@ An \code{nicq} object which inherits from \code{htest} class (the print method f
 \item{method}{description of test}
 }
 \references{
-Fay, MP and Follmann DA (2015). Non-inferiority Tests for Anti-Infective Drugs using Control Quantiles. (unpublished manuscript).
+Fay, MP and Follmann DA (2016). Non-inferiority Tests for Anti-Infective Drugs using Control Group Quantiles. Clinical Trials. 13(6): 632-640.
 }
 \author{
 Michael P. Fay (mfay@niaid.nih.gov)

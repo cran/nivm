@@ -8,6 +8,8 @@
 \alias{findPower}
 \alias{FarrMann}
 \alias{EC}
+\alias{brkCalc}
+
 
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
@@ -27,8 +29,6 @@ FarrMann(X1, X2, M1, M2, delta0,
     fudgeDigits = 8)
 
 findPower(ir, jr, n1, n2, psearch, qsearch)
-
-findPowerR(R, g, psearch = (0:1000)/1000)
 
 getfij(n1, n2, p, q)
 

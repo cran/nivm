@@ -12,8 +12,8 @@ This package was developed to give the control quantile non-inferiority test des
 \tabular{ll}{
 Package: \tab nivm\cr
 Type: \tab Package\cr
-Version: \tab 0.3\cr
-Date: \tab 2015-09-25\cr
+Version: \tab 0.5\cr
+Date: \tab 2024-01-25\cr
 License: \tab >=GPL3\cr
 }
 
@@ -24,7 +24,7 @@ Michael P. Fay
 Maintainer: Michael P. Fay <mfay@niaid.nih.gov>
 }
 \references{
-Fay, MP and Follmann DA (2015). Non-inferiority Tests for Anti-Infective Drugs using Control Quantiles. (unpublished manuscript).
+Fay, MP and Follmann DA (2016). Non-inferiority Tests for Anti-Infective Drugs using Control Group Quantiles. Clinical Trials. 13(6): 632-640.
 
 Rohmel, J and Kieser, M (2013). Investigations on non-inferiority--the Food and Drug Administration draft guidance on treatments for nosocomial pneumonia as a case for exact tests for binomial proportions. Statistics in Medicine. 32: 2335-2348.
 
