@@ -36,7 +36,7 @@ small value to give the range for the uniroot function that calculates the confi
 significance level for calculation of \code{\link{getimaxpower}} called by \code{\link{nicqTest}} when ic="maxpower".
 }
 \item{tau.conf.level}{
-confidence level for tau, where F1(tau)=q. Uses \code{\link{bpcp}} then \code{\link{quantile.kmciLR}}.
+confidence level for tau, where F1(tau)=q. Uses \code{\link[bpcp]{bpcp}} then \code{\link[bpcp]{quantile.kmciLR}}.
 }
 }
 %\details{}

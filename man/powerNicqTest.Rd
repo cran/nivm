@@ -47,17 +47,17 @@ variable margin function under null hypothesis (more formally, at the boundary b
 variable margin function for which we calculate the power
 }
   \item{minn}{
-minimum value for sample size for n1, input into \code{\link{uniroot.integer}}.
+minimum value for sample size for n1, input into \code{\link[ssanv]{uniroot.integer}}.
 }
   \item{maxn}{
-maximum value for sample size for n1, input into \code{\link{uniroot.integer}}.
+maximum value for sample size for n1, input into \code{\link[ssanv]{uniroot.integer}}.
 }
-\item{\dots}{extra arguments passed to \code{\link{uniroot.integer}}.
+\item{\dots}{extra arguments passed to \code{\link[ssanv]{uniroot.integer}}.
 }
 }
 \details{
 The function either calculates the power (if n1=NULL) or calculates n1 and n2 (if power=NULL). In the latter case,
-we use \code{\link{uniroot.integer}} to find the smallest n1 
+we use \code{\link[ssanv]{uniroot.integer}} to find the smallest n1 
 that gives power at least as large as the given power [with n2 defined as ceiling(n2.over.n1*n1)].
 }
 \value{

@@ -82,7 +82,7 @@ The responses can be any numeric values, as long as the difference, F2(t0)- F1(t
 For more details see Fay and Follmann (2015). 
 
 
-The confidence intervals for the qth quantile of the control is calculated using the \code{\link{bpcp}} function followed by the \code{\link{quantile.kmciLR}} from the \code{bpcp} R package.
+The confidence intervals for the qth quantile of the control is calculated using the \code{\link[bpcp]{bpcp}} function followed by the \code{\link[bpcp]{quantile.kmciLR}} from the \code{bpcp} R package.
 }
 \value{
 An \code{nicq} object which inherits from \code{htest} class (the print method for is slightly different). A list with elements:
